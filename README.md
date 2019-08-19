@@ -1,7 +1,8 @@
 # Using-AI-to-Create-New-Fragrances
 
 Smell nice with Artificial Intelligence perfume. Philyra, by IBM Research and Symrise
-MASTER.jpg
+![](BLOG.jpg)
+![](MASTER.jpg)
 
 The AI system is able to sift through hundreds of thousands of formulas and thousands of raw materials, helping identify patterns and novel combinations.
 ![](FEM and MALE.jpg)
